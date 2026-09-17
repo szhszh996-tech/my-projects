@@ -1,0 +1,25 @@
+# ===== C =====
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+a.out
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# ===== 编辑器 =====
+.idea/
+.vscode/
+*.swp
+
+# ===== 系统 =====
+.DS_Store
+Thumbs.db
